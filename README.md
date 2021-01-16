@@ -4,7 +4,7 @@
 ## The second neural network predicts the remedies.
 
 ## * [Android App](https://github.com/SankethBennur/HealthAssistant)
-## * [Programs and Dataset](https://github.com/SankethBennur/FY_Project/tree/master/PROGRAMS_AND_DATASETS)
+## * [Programs and Dataset](https://github.com/SankethBennur/Medical-Diagnosis-using-Machine-Learning/tree/master/Med_diag_using_ML)
 
 ## Contributors
 * Surya Gangaraj (0xpulsar) 
