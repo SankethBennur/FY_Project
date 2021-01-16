@@ -6,7 +6,7 @@
 ## * [Android App](https://github.com/SankethBennur/HealthAssistant)
 ## * [Programs and Dataset](https://github.com/SankethBennur/FY_Project/tree/master/PROGRAMS_AND_DATASETS)
 
-## Contributors ????????
+## Contributors
 * Surya Gangaraj (0xpulsar) 
 * Mohit Surana
 * Rahul Reddy
